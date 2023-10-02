@@ -1,0 +1,45 @@
+html{
+    background-image:url(AdobeStock_253352376.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* height: 100vh; */
+}
+.site{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: flex-start;
+} 
+
+
+
+
+
+
+
+header{
+    text-align: left;
+    font-style: italic;
+    margin: 100px auto 0 auto;
+    color: rgb(255, 255, 255);
+    font-size: 1.6em;
+    text-shadow: #050505 1px 2px 2px;
+}
+/* 
+footer{
+    text-align: center;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    /* padding: 1em; */
+    /* align-items: baseline;
+    font-size: 1.3em;
+    color: rgb(107, 45, 165);
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-between;
+} */ 
